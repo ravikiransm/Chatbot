@@ -3,7 +3,7 @@
 ### The example on how to implement simple chatbot using seq2seq model in the python using tensorflow 1.4 version. This Chatbot example shows the attention mechanism and bucketing as well.
 
 # Dataset
-## I've used the Cornell Movie Dialogs corpuse for this example. 
+## I've used the Cornell Movie Dialogs corpus for this example. 
    
 # Install
     Supported Python version
