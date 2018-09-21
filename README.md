@@ -16,7 +16,7 @@
 
 # Code
 
-### The core seq2seq model functions are all insude model_utils.py.
+### The core seq2seq model functions are all inside model_utils.py.
 
 ### Data preprocessing and NLP functions are inside cornell_data_utils.py.
 
